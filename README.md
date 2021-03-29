@@ -14,7 +14,7 @@
 
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> In love with Tech, Astronomy & everything Renaissance</em></p>
-<br></br>
+<br>
 <h3> Ongoing Development Q2 - Q3 down here ↓ </h3>
  <em>  </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
 
@@ -24,6 +24,7 @@
 </div>
 
 <div>
+  <br>
   <h3> 💻 Languages and Tools </h3>
   <p>
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://designe.com.br/wp-content/uploads/2020/08/figma_logo_animation.gif" width="70">
