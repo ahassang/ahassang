@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Antonio 👋 </h1>
 <h3 align="center">🚀 Front-End Engineer | MERN Stack | Open Source ♥ | Problem Solver @ ❤️</h3>
 <div>
-https://media.giphy.com/media/9TyuOufzHSpKo/giphy.gif
+<iframe src="https://giphy.com/embed/9TyuOufzHSpKo" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/time-day-internet-9TyuOufzHSpKo">via GIPHY</a></p>
   <h3> 👨🏻‍💻 About Me </h3>
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Front-End React engineer at <a href="https://tetrisplace.com">TetrisPlace</em></p>
   
