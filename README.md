@@ -4,13 +4,23 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
+<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Front-End React engineer at <a href="https://tetrisplace.com">TetrisPlace</em></p>
+  
+  
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Pursuing freelance and fintech solutions as hobbies/side hustles</em></p>
+
+
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>Learning more about ecommerce and Frontend Developement</em></p>
+
+
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> in love with science, tech, math & art</em></p>
+
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Portuguese.
-  - 💼 &nbsp; <b>Ongoing Development Q2 - Q3.⬇️</b>
+ <em> ~Ongoing Development Q2 - Q3 down here ↓ ~ </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/></em>
+
    <p><img src="https://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png" width="60" height="55"><img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" /><img src="http://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="60" height="55"></p>
-  - 🌱 &nbsp; Learning more about ecommerce and Frontend Developement. <br>
-  - ✍️ &nbsp; Pursuing freelance and fintech solutions as hobbies/side hustles.  
+ 
 </div> 
 </div>
 
