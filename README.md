@@ -1,8 +1,7 @@
+<img align="right" src="https://media.giphy.com/media/9TyuOufzHSpKo/source.gif" />
+
 <h1 align="center">Hey there! I'm Antonio 👋 </h1>
 <h3 align="center">🚀 Front-End Engineer | MERN Stack | Open Source ♥ | Problem Solver @ ❤️</h3>
-
-<img align="left" width="22px" src="https://media.giphy.com/media/9TyuOufzHSpKo/source.gif" />
-
 <div>
  
   <h3> 👨🏻‍💻 About Me </h3>
