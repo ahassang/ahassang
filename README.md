@@ -7,7 +7,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Portuguese and TypeScript.
-  - 💼 &nbsp; Certificates I am currently working on. 👇
+  - 💼 &nbsp; Ongoing Development Q2 - Q3
   - <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
   - 🌱 &nbsp; Learning more about ecommerce and Frontend Developement.
   - ✍️ &nbsp; Pursuing freelance and fintech solutions as hobbies/side hustles.  
