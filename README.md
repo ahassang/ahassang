@@ -1,8 +1,7 @@
-<img width = "35%" align="right" src="https://media.giphy.com/media/9TyuOufzHSpKo/source.gif" />
-
 <h1 align="center">Hey there! I'm Antonio 👋 </h1>
 <h3 align="center">🚀 Front-End Engineer | MERN Stack | Open Source ♥ | Problem Solver @ ❤️</h3>
 <div>
+ <img width = "35%" align="right" src="https://media.giphy.com/media/9TyuOufzHSpKo/source.gif" />
  
   <h3> 👨🏻‍💻 About Me </h3>
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Front-End React engineer at <a href="https://tetrisplace.com">TetrisPlace</em></p>
