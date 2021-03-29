@@ -9,7 +9,7 @@
  
   
   
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Pursuing ecommerce and fintech solutions as hobbies/side hustles</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Pursuing E-commerce and fintech solutions as hobbies/side hustles</em></p>
 
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>Learning more about FullStack integration</em></p>
