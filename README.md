@@ -1,9 +1,11 @@
 <h1 align="center">Hey there! I'm Antonio 👋 </h1>
 <h3 align="center">🚀 Front-End Engineer | MERN Stack | Open Source ♥ | Problem Solver @ ❤️</h3>
 <div>
-<img src="https://media.giphy.com/media/9TyuOufzHSpKo/source.gif" width="250" height="155">
+<img src="https://media.giphy.com/media/9TyuOufzHSpKo/source.gif" width="550" height="355">
   <h3> 👨🏻‍💻 About Me </h3>
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Front-End React engineer at <a href="https://tetrisplace.com">TetrisPlace</em></p>
+  
+  <img src="https://media.giphy.com/media/9TyuOufzHSpKo/source.gif" width="550" height="355">
   
   
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Pursuing ecommerce and fintech solutions as hobbies/side hustles</em></p>
