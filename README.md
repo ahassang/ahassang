@@ -8,7 +8,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Portuguese and TypeScript.
   - 💼 &nbsp; Ongoing Development Q2 - Q3
-  - <p><img src="https://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png" width="50"><img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" /></p>
+  - <p><img src="https://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png" width="50" height="40"><img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" /></p>
   - 🌱 &nbsp; Learning more about ecommerce and Frontend Developement.
   - ✍️ &nbsp; Pursuing freelance and fintech solutions as hobbies/side hustles.  
 </div> 
