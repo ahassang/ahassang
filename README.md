@@ -7,10 +7,10 @@
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Front-End React engineer at <a href="https://tetrisplace.com">TetrisPlace</em></p>
   
   
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Pursuing freelance and fintech solutions as hobbies/side hustles</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em> Pursuing ecommerce and fintech solutions as hobbies/side hustles</em></p>
 
 
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>Learning more about ecommerce and Frontend Developement</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em>Learning more about FullStack integration</em></p>
 
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> In love with Tech, Astronomy & everything Renaissance</em></p>
