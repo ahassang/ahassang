@@ -20,9 +20,9 @@
 <h3>🛠 Ongoing Development Q2 - Q3 down here ↓ <em>  </a><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="50vw"/></em></h3>
  
 
-   <p><img src="https://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png" width="60" height="55"><img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" /><img src="http://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="60" height="55"></p>
+   <p><img src="https://pluspng.com/img-png/salesforce-logo-vector-png-salesforce-logo-png-2300.png" width="60" height="55"><img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" /><img src="http://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="60" height="55">
    <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="55"/>
- 
+    </p>
 </div> 
 </div>
 
