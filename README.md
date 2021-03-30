@@ -43,6 +43,9 @@
     <img src="https://designe.com.br/wp-content/uploads/2020/08/figma_logo_animation.gif" width="70">
     <a href="https://getbootstrap.com" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="55"/> 
+     <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahassang&show_icons=true&locale=en" alt=“ahassang” /></p>
+
+
 </p>
   <p>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to collaborate, <b>Please feel free to reach out!</b> 🤓</em>
