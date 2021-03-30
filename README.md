@@ -2,9 +2,7 @@
 <h3 align="center">🚀 Front-End Engineer | MERN Stack | Open Source ♥ | Problem Solver @ ❤️</h3>
 <div>
  <img width = "45%" align="right" src="https://media.giphy.com/media/ELham0Mveox9e/source.gif" />
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="55"/> 
-     <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahassang&show_icons=true&locale=en" alt=“ahassang” />
+
   
   <h3> 👨🏻‍💻 About Me </h3>
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Front-End React engineer at <a href="https://tetrisplace.com">TetrisPlace</em></p>
