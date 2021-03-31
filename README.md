@@ -37,7 +37,7 @@
    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
    <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-   <img src="http://techgenix.com/tgwordpress/wp-content/uploads/2018/11/postman-logo-1024x379.png"width="80" height="45">
+   <img src="http://techgenix.com/tgwordpress/wp-content/uploads/2018/11/postman-logo-1024x379.png"width="75" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="60"/>
     <a href="https://expressjs.com" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="45"/> 
