@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Antonio 👋 </h1>
 <h3 align="center">🚀 Front-End Engineer | MERN Stack | Open Source ♥ | Problem Solver @ ❤️</h3>
-<p>I like start my day with a Algortith and an Espresso!<p>
+<p>I like start my day with Algorithms and an Espresso!<p>
 <div>
  <img width = "45%" align="right" src="https://media.giphy.com/media/ELham0Mveox9e/source.gif" />
 
