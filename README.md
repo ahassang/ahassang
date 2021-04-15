@@ -6,7 +6,7 @@
 
   
   <h3> 👨🏻‍💻 About Me </h3>
-<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Front-End React engineer at <a href="https://tetrisplace.com">TetrisPlace</em></p>
+<p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Platform Dev</p>
   
  
   
